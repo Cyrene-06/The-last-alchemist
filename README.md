@@ -107,6 +107,10 @@ Assets/LastAlchemist/
 
 这是验证核心玩法循环的首个垂直切片。下一阶段适合将运行时对象拆为 Prefab，把配方与洞见迁移到 ScriptableObject，并将 IMGUI 界面迁移到 UI Toolkit 或 UGUI。
 
+## Contributing / 参与贡献
+
+开发环境、分支约定、Unity 资产规则和提交前检查请参阅 [CONTRIBUTING.md](CONTRIBUTING.md)。新 PR 会自动加载仓库的验证清单与联合作者说明模板。
+
 ## Contributors / 共同创作
 
 - [Cyrene-06](https://github.com/Cyrene-06) — project owner, concept, direction, and design
