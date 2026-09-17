@@ -1,0 +1,7 @@
+{
+  "name": "LastAlchemist.Editor",
+  "rootNamespace": "LastAlchemist.Editor",
+  "references": ["LastAlchemist.Runtime"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}
