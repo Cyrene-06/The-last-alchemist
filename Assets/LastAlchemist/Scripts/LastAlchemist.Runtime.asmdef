@@ -1,0 +1,6 @@
+{
+  "name": "LastAlchemist.Runtime",
+  "rootNamespace": "LastAlchemist",
+  "references": ["Unity.InputSystem"],
+  "autoReferenced": true
+}
